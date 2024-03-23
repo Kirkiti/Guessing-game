@@ -1,0 +1,1 @@
+This is a guessing game that allows the player to guess the secret number three times. If the player guess the correct number, he/she wins. However if he/she tries three times and doesn't guess the right answer he/she fails.
